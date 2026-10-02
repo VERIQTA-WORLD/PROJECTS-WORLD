@@ -1,11 +1,6 @@
 
-# VERIQTA SENIOR ENGINEER
-
-## PROJECT 001: BUILD A MULTI-AZ RESILIENT INFRASTRUCTURE
 
 # PART 00: PROJECT ORIENTATION
-
-Project ID: VERIQTA-SEN-001 Engineering Level: Senior Category: Advanced Infrastructure Engineering Delivery: Sequential Follow-Along Portfolio Project
 
 ## 00.1 Project Overview
 
